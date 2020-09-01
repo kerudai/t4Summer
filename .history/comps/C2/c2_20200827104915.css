@@ -1,0 +1,6 @@
+#chat_card {
+    width: 200px;
+    height: 100px;
+    background-color: rgba(0, 128, 0, 0.1);
+    border-radius: 5px;
+}

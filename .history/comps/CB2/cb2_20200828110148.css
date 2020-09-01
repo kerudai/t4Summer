@@ -1,0 +1,21 @@
+.CB2 {
+    display: inline-flex;
+    background-color: coral;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 10px;
+    border-radius: 10px;
+    filter: drop-shadow(2px 2px 2px gray);
+    margin: 0 5px;
+    cursor: pointer;
+    position: fixed;
+}
+
+h2 {
+    display: inline-flex;
+    align-items: center;
+}
+h2::selection {
+    background: none;
+    color: none;
+}

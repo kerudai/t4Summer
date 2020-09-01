@@ -1,0 +1,14 @@
+.CH2 {
+    display: inline-flex;
+
+}
+
+h1 {
+    color: teal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1::selection {
+    background: none;
+    color: none;
+}

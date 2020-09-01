@@ -1,0 +1,21 @@
+.chatpage2 {
+    display: flex;
+    flex-direction: column;
+}
+
+#header {
+    align-self: center;
+}
+
+#chats {
+    align-self: center;
+}
+
+#chat1 {
+    margin: 5px 0px;
+}
+
+
+/* #chat_chatbot {
+    margin: 5px 5px;
+} */

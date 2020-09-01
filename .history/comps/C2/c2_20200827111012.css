@@ -1,0 +1,29 @@
+#chat_card {
+    width: 200px;
+    height: 100px;
+    background-color: rgba(4, 157, 4, 0.68);
+    border-radius: 5px;
+    filter: drop-shadow(2px 2px 4px gray);
+}
+
+#chat_avatar {
+    display: inline-flex;
+    align-items: center;
+    margin: 5px 5px;
+}
+
+#chat_name {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0 5px;
+}
+
+img {
+    width: 25px;
+    height: 25px;
+}
+
+#chat_box{
+    width: 180px;
+    height: 25px;
+    background-color: rgb(0, 204, 255);
+}

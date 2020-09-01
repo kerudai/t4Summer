@@ -1,0 +1,13 @@
+.CH2 {
+    
+
+}
+
+h1 {
+    color: teal;
+}
+
+h1::selection {
+    background: none;
+    color: none;
+}

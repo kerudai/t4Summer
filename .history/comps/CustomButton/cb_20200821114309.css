@@ -1,0 +1,19 @@
+.custom_button_box {
+    display: inline-flex;
+    background-color: #DAB;
+    padding: 10px;
+    border-radius: 15px;
+    font-weight: bolder;
+    color: #FFF;
+    box-shadow: 2.5px 2.5px 5px #DAB;
+    cursor: pointer;
+}
+
+.custom_button_box:hover {
+    background-color: #999;
+}
+
+.custom_button_box_inner::selection {
+    background: none;
+    color: none;
+}

@@ -1,0 +1,9 @@
+.custom_button_box {
+    display: inline-flex;
+    background-color: #DAB;
+    padding: 10px;
+    border-radius: 15px;
+    font-weight: bolder;
+    color: #FFF;
+    box-shadow: 1px 1px 1px black;
+}

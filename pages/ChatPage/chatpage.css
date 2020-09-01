@@ -1,0 +1,14 @@
+#reset {
+    display: inline-flex;
+    flex-direction: row;
+}
+
+#custom_button {
+    /* background-color: black; */
+}
+
+#chatpage1 {
+    position: relative;
+    left: -100%;
+    transition: left 1s;
+}

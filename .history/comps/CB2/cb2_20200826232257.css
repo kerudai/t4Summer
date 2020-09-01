@@ -1,0 +1,9 @@
+.CB2 {
+    display: inline-flex;
+    background-color: coral;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 5px;
+    border-radius: 5px;
+    filter: drop-shadow(2px 2px 2px black);
+}

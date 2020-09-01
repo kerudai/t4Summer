@@ -1,0 +1,17 @@
+.chatpage2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#header {
+    /* align-self: center; */
+}
+
+#chats {
+    /* align-self: center; */
+}
+
+#input {
+    margin: 5px;
+}

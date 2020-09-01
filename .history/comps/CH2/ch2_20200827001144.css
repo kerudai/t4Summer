@@ -1,0 +1,14 @@
+.CH2 {
+    
+
+}
+
+h1 {
+    color: teal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1::selection {
+    background: none;
+    color: none;
+}
